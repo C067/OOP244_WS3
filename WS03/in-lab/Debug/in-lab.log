@@ -1,0 +1,28 @@
+﻿  CRA_Account.cpp
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(23): error C2143: syntax error: missing ']' before ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(23): error C2059: syntax error: ']'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(23): error C2238: unexpected token(s) preceding ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(24): error C2143: syntax error: missing ']' before ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(24): error C2059: syntax error: ']'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(24): error C2238: unexpected token(s) preceding ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.cpp(49): warning C4552: '<': operator has no effect; expected operator with side-effect
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.cpp(49): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.cpp(49): error C2059: syntax error: '||'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.cpp(49): error C2059: syntax error: ')'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.cpp(53): error C2181: illegal else without matching if
+  Generating Code...
+  Compiling...
+  w3_in_lab.cpp
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(23): error C2143: syntax error: missing ']' before ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(23): error C2059: syntax error: ']'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(23): error C2238: unexpected token(s) preceding ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(24): error C2143: syntax error: missing ']' before ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(24): error C2059: syntax error: ']'
+e:\school\oop\oop-workshops-master\ws03\in-lab\cra_account.h(24): error C2238: unexpected token(s) preceding ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\w3_in_lab.cpp(38): error C2143: syntax error: missing ']' before ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\w3_in_lab.cpp(38): error C2143: syntax error: missing ';' before ']'
+e:\school\oop\oop-workshops-master\ws03\in-lab\w3_in_lab.cpp(38): error C2059: syntax error: ']'
+e:\school\oop\oop-workshops-master\ws03\in-lab\w3_in_lab.cpp(39): error C2143: syntax error: missing ']' before ';'
+e:\school\oop\oop-workshops-master\ws03\in-lab\w3_in_lab.cpp(39): error C2143: syntax error: missing ';' before ']'
+e:\school\oop\oop-workshops-master\ws03\in-lab\w3_in_lab.cpp(39): error C2059: syntax error: ']'
+  Generating Code...

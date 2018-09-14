@@ -1,0 +1,48 @@
+//Name: Callum Dodge
+//Date: June 4, 2018
+//Section: D
+//Workshop: 3 At Home
+
+1. In the variables, familyName and givenName are able to hold up to at least 40
+characters. In the original w3_at_home.cpp file, have the same 40 characters but 
+has a 1 added to it. This 1 has a special purpose because it adds a special character
+to the static array called a null terminator. This null terminator is added to the
+end of the array in order to notify the end of a string. 
+
+2. The name of the feature to have more than one function with different parameters is
+called function overload. This features allows you to have a function with the same name,
+the only difference is that it passes different parameters. The function will be able to 
+tell which function is which based on the parameters sent. The reason why C gives this
+error is because C will notify that more than one function is being declared with the 
+same name and purpose.
+
+3. In this workshop, I have learned for the purpose of both using both function overloading
+and using Classes. The reason for function overloading is so that you want to have multiple 
+of different functions but based on the same purpose. Classes is used as a data type storing 
+both data members, any variables or data you declared and member functions, declaring functions
+in order to access the private data members.
+
+Quiz Reflection
+
+3. Member functions are used to access private data members that are stored within the class.
+
+4. 
+
+#include <iostream>
+#include <cstring>
+
+using namespace std;
+
+int main (void) {
+
+	char * code = nullptr;
+
+	codeptr = new code[SIZE];
+
+	strcpy (codeptr, "OOP244");
+
+	delete [] codeptr;
+
+	return 0;
+
+}
